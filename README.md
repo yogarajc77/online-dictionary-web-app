@@ -34,9 +34,10 @@ https://yogarajc77.github.io/online-dictionary-web-app/
 
 ##  Project Structure
 
-DICTIONARY:
-1.index.html
-2.style.css
-3.script.js
+DICTIONARY
+
+- index.html
+- style.css
+- script.js
 
 
