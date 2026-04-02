@@ -11,7 +11,7 @@ https://yogarajc77.github.io/online-dictionary-web-app/
 
 ##  Screenshots
 
-![Home Page](Screenshot(12).png)
+![Home Page](output.png)
 
 
 
